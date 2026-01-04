@@ -1,7 +1,10 @@
 ## Welcome to my profile on Github 👋
 
 
-Just a hobbywebdev.
+<h3>Just a hobbywebdev. </h3>
+
+<p> - Currently working on some websites for private fivem server. ⚡ </p>
+<p> -I’m currently learning Javascript 🤔</p>
 <!--
 **ElmarInformatics/ElmarInformatics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
